@@ -1,0 +1,8 @@
+opencv-python==4.4.0.44
+matplotlib==3.3.2
+Pillow==7.2.0
+Unidecode==1.1.1
+numpy==1.19.2
+jellyfish==0.8.2
+vietocr==0.3.2
+glob2==0.7

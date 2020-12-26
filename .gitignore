@@ -1,0 +1,6 @@
+/passport
+*.jpg
+/cropped_images
+/models
+*.pyc
+.idea
